@@ -264,6 +264,7 @@ If I was to have more time, I think I would add different enemy types an maybe a
 **5. How does your approach to game development now compare to when you started the course?**
 
 I realize planning everything out and laying the groundwork (tilemaps, layers, folder organization, etc.) makes the actual development process much easier than trying to do these things as I need them.
+
 ---
 
 *TileMania Checklist | CS 4700: Game Design Studio | Unity 6 + C#*
